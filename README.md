@@ -1,5 +1,5 @@
 # Spatial-Mapping-LiDAR
-A compact indoor LiDAR system using an MSP432E401Y microcontroller, a VL53L1X ToF sensor, and a stepper motor for 360° spatial mapping, with 3D visualization in Python.
+A compact indoor LiDAR system using an MSP432E401Y microcontroller, a VL53L1X ToF sensor, and a stepper motor for 360° spatial mapping, with 3D visualization in Python, completed for McMaster University's Microprocessor Systems Project (2DX3) course.
 
 ## Description
 
